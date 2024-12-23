@@ -1,4 +1,5 @@
 test1
+commit test
 test2
 test3
 Add line
